@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 自我介绍
-我叫李曦雨，就读于淄博职业学院，预计2021毕业。
+我叫李曦雨，就读于淄博职业学院，预计2022毕业。
 
 <!--
 **lll727/lll727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
